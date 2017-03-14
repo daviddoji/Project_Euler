@@ -22,12 +22,14 @@ def compute():
     exceed four million.
     """
     ans = 0
-    x = 1  # Represents the current Fibonacci number being processed
-    y = 2  # Represents the next Fibonacci number in the sequence
-    while x <= 4000000:
-        if x % 2 == 0:
-            ans += x
-        x, y = y, x + y
+    x = 1
+    y = 1
+    z = x + y  # Because every third Fibonacci number is even
+    while z <= 4000000:
+        ans += z
+        x = y + z
+        y = z + x
+        z = x + y
     return ans
 
 
