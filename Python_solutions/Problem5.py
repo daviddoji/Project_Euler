@@ -19,6 +19,7 @@ import math
 # computing the lcm of two numbers, i.e.
 # lcm(a, b, c) = lcm(a, lcm(b, c))
 
+
 def compute():
     """
     2520 is the smallest number that can be divided by each of the numbers
