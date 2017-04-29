@@ -10,7 +10,6 @@ Solution to Project Euler problem 8
 https://github.com/daviddoji/Project_Euler
 """
 
-import re
 
 def compute():
     """
