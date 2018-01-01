@@ -5,7 +5,7 @@ Created on Mon Jan  1 17:07:15 2018
 
 @author: david
 
-Solution to Project Euler problem 7
+Solution to Project Euler problem 12
 
 https://github.com/daviddoji/Project_Euler
 """
