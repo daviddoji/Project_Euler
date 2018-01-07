@@ -3,7 +3,7 @@
 """
 Created on Sun Jan  7 20:56:26 2018
 
-@author: david
+@author: daviddoji
 
 Solution to Project Euler problem XXX
 
